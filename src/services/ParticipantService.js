@@ -1,6 +1,5 @@
 import axios from 'axios';
 
-// URL dasar API Anda
 const API_URL = 'http://localhost:3000/api/participants'; 
 
 class ParticipantService {
