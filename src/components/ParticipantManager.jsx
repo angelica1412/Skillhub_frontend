@@ -87,7 +87,7 @@ const ParticipantManager = () => {
       >
         <h3>
           {editingId
-            ? "Edit Participant (ID: " + editingId + ")"
+            ? "Edit Participant"
             : "Add New Participant"}
         </h3>
         <input

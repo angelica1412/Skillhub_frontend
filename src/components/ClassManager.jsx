@@ -91,7 +91,7 @@ const ClassManager = () => {
         }}
       >
         <h3>
-          {editingId ? "Edit Class (ID: " + editingId + ")" : "Add New Class"}
+          {editingId ? "Edit Class" : "Add New Class"}
         </h3>
         <input
           name="class_name"

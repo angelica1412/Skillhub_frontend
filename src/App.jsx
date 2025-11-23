@@ -32,7 +32,7 @@ function App() {
 
   return (
     <div style={{ fontFamily: "Arial, sans-serif" }}>
-      <h1>🎓 Skill Hub Dashboard</h1>
+      <h1>🎓 SkillHub Dashboard</h1>
 
       {/* Navigasi Tab Sederhana */}
       <div style={{ marginBottom: "20px", borderBottom: "2px solid #eee" }}>
